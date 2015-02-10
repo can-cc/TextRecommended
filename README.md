@@ -1,6 +1,6 @@
 # TextRecommended
 
-TF-IDF文本分类
+TF-IDF SVM文本分类实现
 
 实现了三个分词接口
 IK
